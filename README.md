@@ -74,6 +74,25 @@ The original raw data was derived from the HUMIR dataset.
 
 This repository is intended for academic and research purposes.
 
+---
+
+# Citation
+
+If you use this dataset in your research, please cite the following publication:
+
+```bibtex
+@article{tekinay2026raw,
+  author={B. Tekinay and M. Alp Tocoglu},
+  journal={IEEE Access},
+  title={From Raw to Synthetic: Evaluating LLM-Based Data Augmentation for Sentiment Analysis},
+  year={2026},
+  volume={14},
+  pages={25747-25769},
+  doi={10.1109/ACCESS.2026.3664756}
+}
+```
+---
+
 # Notes
 
 Some datasets are shared in compressed (.zip) format due to GitHub file size limitations.
