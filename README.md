@@ -73,3 +73,9 @@ The original raw data was derived from the HUMIR dataset.
 # License
 
 This repository is intended for academic and research purposes.
+
+# Notes
+
+Some datasets are shared in compressed (.zip) format due to GitHub file size limitations.
+
+The synthetic samples were generated solely for academic and research purposes.
