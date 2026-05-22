@@ -1,0 +1,7 @@
+Datasets were preprocessed before training.
+
+Preprocessing steps included:
+- Lowercasing
+- Removing special characters
+- Removing noisy samples
+- Cleaning duplicated entries
