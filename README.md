@@ -76,6 +76,14 @@ This repository is intended for academic and research purposes.
 
 ---
 
+# DOI
+
+This dataset is permanently archived on Zenodo:
+
+https://doi.org/10.5281/zenodo.20342933
+
+---
+
 # Citation
 
 If you use this dataset in your research, please cite the following publication:
